@@ -1,0 +1,12 @@
+.custom-navbar {
+  height: 65px;
+  background-color: black;
+  color: white;
+}
+.sidebar {
+  height: calc(100vh - 49px);
+}
+.main-screen {
+  height: calc(100vh - 49px);
+  overflow-y: auto;
+}
